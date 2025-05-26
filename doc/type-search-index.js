@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"org.example.model","l":"Adventurer"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example","l":"Main"},{"p":"org.example.model","l":"Map"},{"p":"org.example.model","l":"Mountain"},{"p":"org.example.model","l":"Movement"},{"p":"org.example.model","l":"Orientation"},{"p":"org.example.model","l":"Treasure"}];updateSearchResults();
